@@ -1,4 +1,4 @@
-package me.uni.delivery_central
+package me.uni.deliveryCentral
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
