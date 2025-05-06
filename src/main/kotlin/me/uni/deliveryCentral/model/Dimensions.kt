@@ -1,12 +1,11 @@
 package me.uni.deliveryCentral.model
 
 data class Dimensions(
-    val id: Long,
-    val width: Float,
-    val length: Float,
-    val height: Float,
-    val size: String,
-    val unit: String
+    var width: Float,
+    var length: Float,
+    var height: Float,
+    var size: String,
+    var unit: String
 ) {
 
 }
